@@ -1,0 +1,10 @@
+# Ignore the Python virtual environment
+my_project_env/
+
+# Ignore temporary image files
+*.jpg
+*.jpeg
+*.png
+
+# Ignore backup files
+*.tar.gz
